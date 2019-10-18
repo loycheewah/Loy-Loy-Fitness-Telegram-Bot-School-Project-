@@ -9,5 +9,5 @@ python-dotenv==0.6.0
 selenium==2.53.6
 splinter==0.7.4
 telepot==9.1
-urllib3==1.17
+urllib3==1.24.2
 virtualenv==15.0.3
